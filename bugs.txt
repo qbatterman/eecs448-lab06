@@ -1,0 +1,9 @@
+-addBack seems to add to the front of the list. (change vector postion from 2 to 0 for confirmation)
+
+-removeFront seems to remove from the back of list. (changed value from 2 to 1 to for confirmation)
+-removeFront does not update the size (changed from 2 to 3 for confirmation)
+-removeFront does not return true after removing element
+
+-removeBack does not update the size (changed from 2 to 3 for confirmation)
+-removeBack does not return true after removing element
+
